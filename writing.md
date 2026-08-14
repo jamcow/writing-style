@@ -52,3 +52,4 @@ Sentence rules control shape, not length. These control length:
 - Do not retroactively rewrite existing issues or comments for style unless explicitly asked.
 - When STE-style certainty would misstate confidence ("X causes Y" when it is a hypothesis), prefer accuracy over compliance: "X likely causes Y" is correct; keep the hedge.
 - Hedges are load-bearing in analysis prose. Never strip them during a style pass.
+- Claims about *why* code is as it is are intent claims. Intent lives only in comments, ADRs, commits, or issues — cite one, or mark the claim as inference.
