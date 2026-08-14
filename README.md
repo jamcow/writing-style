@@ -30,3 +30,13 @@ Broken into sections:
 ### Issue comments
 
 May require the lightest touch. They're conversation; forcing STE makes them stilted and, worse, can make uncertain claims read as certain ones. Ubiquitous language yes, sentence-shape rules as a default habit.
+
+## Notes
+
+Skills elsewhere exist for applying it selectively. I add to root AGENT.md/CLAUDE.md:
+
+```markdown
+### Writing style
+
+Commit messages, issue bodies, and issue/PR comments follow the STE-derived subset and per-artefact scopes in `WRITING.md`. Ubiquitous language from `CONTEXT.md` applies everywhere. In-code comments are exempt from sentence rules.
+```
